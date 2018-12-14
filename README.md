@@ -2,11 +2,7 @@
 
 Simple application showcasing React Hooks System!
 
-![png](documentation/images/loading.png)
-
-![png](documentation/images/cold.png)
-
-![png](documentation/images/hot.png)
+![png](documentation/images/seasons.png)
 
 ## Technology Stack
 
