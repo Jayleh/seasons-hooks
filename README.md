@@ -1,12 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Seasons Hooks
 
 Simple application showcasing React Hooks System!
 
+![png](documentation/images/loading.png)
+
+![png](documentation/images/cold.png)
+
+![png](documentation/images/hot.png)
+
 ## Technology Stack
 
-React/Redux
+React.js
 
 ## Webpage
 
